@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Isacgaldino1
-- 👀 I’m interested in learning Banco de dados e Front-end.
-- 🌱 I’m currently learning  Python
+- 👀 I’m interested in learning Banco de dados e back-end
+- 🌱 I’m currently learning  JAVA
 - 📫 How to reach me comming soon!
